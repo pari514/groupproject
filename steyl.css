@@ -252,16 +252,11 @@ body {
       width: 60px;
     }
   }
- 
-
-
-
 .footer {
     background-color: #333;
     color: #fff;
     padding: 50px 0 20px;
 }
-
 .container {
     width: 100%;
     margin: 0 auto;
@@ -273,7 +268,6 @@ body {
     justify-content: space-between;
     margin-bottom: 30px;
 }
-
 .footer-section {
     flex: 1;
     padding: 0 15px;
@@ -356,7 +350,6 @@ body {
 .heart {
     color: #ff4c4c;
 }
-
 @media screen and (max-width: 768px) {
     .footer-content {
         flex-direction: column;
